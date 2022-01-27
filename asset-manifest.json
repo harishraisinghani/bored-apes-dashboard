@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bored-apes-dashboard/static/css/main.3c6b87c0.chunk.css",
-    "main.js": "/bored-apes-dashboard/static/js/main.989c07ce.chunk.js",
-    "main.js.map": "/bored-apes-dashboard/static/js/main.989c07ce.chunk.js.map",
+    "main.js": "/bored-apes-dashboard/static/js/main.dabc3bc7.chunk.js",
+    "main.js.map": "/bored-apes-dashboard/static/js/main.dabc3bc7.chunk.js.map",
     "runtime-main.js": "/bored-apes-dashboard/static/js/runtime-main.a1a5c888.js",
     "runtime-main.js.map": "/bored-apes-dashboard/static/js/runtime-main.a1a5c888.js.map",
     "static/js/2.f58bfb44.chunk.js": "/bored-apes-dashboard/static/js/2.f58bfb44.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.a1a5c888.js",
     "static/js/2.f58bfb44.chunk.js",
     "static/css/main.3c6b87c0.chunk.css",
-    "static/js/main.989c07ce.chunk.js"
+    "static/js/main.dabc3bc7.chunk.js"
   ]
 }
